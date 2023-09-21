@@ -177,7 +177,7 @@ body {
                 .conteiner__secundario {
             display: block;
             justify-content: center;
-            align-items: center;
+            align-items: column;
         }
 
         .conteiner__imagem {
