@@ -165,6 +165,10 @@ body {
             background-image: none;
         }
 
+                .conteiner__principal {
+            margin: 0;
+        }
+
         .conteiner__imagem {
             width: 50vw;
         }
